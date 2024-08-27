@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
-<h3 align="center">Crafting Scalable Solutions | Full Stack Developer | Cloud Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Crafting Scalable Solutions</h3>
+<h3>Full Stack Developer</h3>
+<h3>Cloud Developer</h3>
+<h3></h2>MERN Stack Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
